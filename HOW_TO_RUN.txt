@@ -1,0 +1,7 @@
+DarkVault - run in VS Code
+1. Install Node.js 20+ (https://nodejs.org) or Bun (https://bun.sh).
+2. Open this folder in VS Code, then open Terminal.
+3. Run:  npm install      (or: bun install)
+4. Run:  npm run dev      (or: bun run dev)
+5. Open the shown address (e.g. http://localhost:8080) in your browser.
+Tests: npx vitest run
